@@ -11,4 +11,4 @@ Atmospheric CO2 time series data shows dynamics of self-organization - write up 
 
 File: plots_fouri_upload.py
 
-### Dedicated to David Stroh Buckel
+## Dedicated to David Stroh Buckel
