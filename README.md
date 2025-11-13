@@ -7,6 +7,6 @@ The growth of CO2 levels has left the near-equilibrium lag phase around 1948 and
 
 Files: gen_curve_fitting.py and plots_co2_upload.py
 
-Atmospheric CO2 time series data shows dynamics of self-organization on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/690af1a9a482cba1221eed4e)
+Atmospheric CO2 time series data shows dynamics of self-organization - write up available on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/690af1a9a482cba1221eed4e)
 
 File: plots_fouri_upload.py
