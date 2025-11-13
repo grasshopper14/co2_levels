@@ -11,4 +11,4 @@ Atmospheric CO2 time series data shows dynamics of self-organization - write up 
 
 File: plots_fouri_upload.py
 
-## Dedicated to David Stroh Buckel
+A self-organized mechanism, similar to enzyme activity and growth, has been set in the dynamics of atmospheric CO2 levels starting from around the year 1720.
